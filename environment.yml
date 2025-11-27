@@ -1,0 +1,7 @@
+name: practice-env
+channels:
+  - conda-forge
+dependencies:
+  - python=3.11
+  - numpy=2.3.5
+  - pandas=2.3.3
